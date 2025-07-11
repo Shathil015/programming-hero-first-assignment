@@ -379,6 +379,39 @@ body {
 .submit-button:hover {
   background-color: #4338ca;
 }
+/* Add footer */
+.footer {
+  padding: 80px 20px;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e0e0e0;
+}
+
+.footer-logo {
+  font-size: 48px;
+  color: #4a42f4;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.footer-tagline {
+  font-size: 15px;
+  color: #888;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.footer-nav a {
+  margin: 0 15px;
+  color: #888;
+  text-decoration: none;
+  font-size: 15px;
+  transition: color 0.3s;
+}
+
+.footer-nav a:hover {
+  color:#4a42f4;
+}
 
 
 
